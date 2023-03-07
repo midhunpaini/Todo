@@ -1,0 +1,28 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "todo-list",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/midhunpaini/Todo.git"
+  },
+  "author": "midhun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/midhunpaini/Todo/issues"
+  },
+  "homepage": "https://github.com/midhunpaini/Todo#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
